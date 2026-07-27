@@ -22,14 +22,7 @@ Runs unchanged on **InfinityFree** and **XAMPP (localhost)**.
 6. **Delete `install.php`** after setup.
 
 ### On InfinityFree
-
-1. Upload all files via the File Manager or FTP into `htdocs/`.
-2. In the control panel, create a MySQL database and note the **database
-   name**, **username**, **password**, and **hostname** (not `localhost`).
-3. Edit `includes/config.php` with those four values.
-4. Import `sql/schema.sql` through phpMyAdmin, **or** visit
-   `install.php` once (then delete it).
-5. The site is live at your InfinityFree domain.
+https://fileshare.site.je
 
 ---
 
